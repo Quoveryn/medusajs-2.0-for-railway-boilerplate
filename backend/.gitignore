@@ -8,6 +8,8 @@ yarn-error.log
 /.idea
 static
 coverage
+package-lock.json
+.env.template
 
 .medusa
 
